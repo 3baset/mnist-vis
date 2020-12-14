@@ -4,3 +4,4 @@ You can visualize unsupervise dataset using clustring techniques or decompositio
 
 This Visualization usually make it easier for me to understand the data and problem better.
 
+In this notebook I am using the MNIST dataset as an example and t-SNE to check the results of this approach.
