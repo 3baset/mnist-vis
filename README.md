@@ -5,3 +5,6 @@ You can visualize unsupervised datasets using clustring techniques or decomposit
 This Visualization usually make it easier for me to understand the data and problem better.
 
 In this notebook I am using the MNIST dataset as an example and t-SNE to check the results of this approach.
+
+# Output
+![t-SNE visualization of the MNIST dataset.](MNIST.png)
